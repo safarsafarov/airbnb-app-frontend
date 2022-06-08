@@ -8,7 +8,6 @@ const Map = ({ location }) => {
   })
 
   console.log("location.lat", location.lat)
-  console.log("location.lat", location.lat)
   const containerStyle = {
     width: "100%",
     height: "400px",
