@@ -12,7 +12,8 @@
     "next": "12.1.6",
     "next-sanity": "^0.5.2",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "run": "^1.4.0"
   },
   "devDependencies": {
     "eslint": "8.18.0",
